@@ -52,6 +52,10 @@ header {
     transition: box-shadow .2s ease;
 }
 
+.characters li a {
+    text-decoration: none;
+}
+
 .characters li:hover {
     box-shadow: 0 220px 0 rgb(255, 0, 0) inset;
 }
