@@ -86,13 +86,13 @@ article p, #instructions p {
     background-image: url('../images/gravityfallSprites.jpg');
 }
 
-#carol {background-position: -150px 0;}
-#clint {background-position: -300px 0;}
-#hulk {background-position: -450px 0;}
-#thor {background-position: -600px 0;}
-#widow {background-position: -750px 0;}
+#mabel {background-position: -150px 0;}
+#wendy {background-position: -300px 0;}
+#stan {background-position: -450px 0;}
+#ford{background-position: -600px 0;}
+#soos {background-position: -750px 0;}
 
-#cap:hover, #carol:hover, #clint:hover, #hulk:hover, #thor:hover, #widow:hover {
+#dipper:hover, #mabel:hover, #wendy:hover, #stan:hover, #ford:hover, #soos:hover {
     background-position-y: -150px;
 }
 
@@ -117,13 +117,34 @@ footer {
     background-color: rgba(0,0,0, 0.85);
     background-image: url('../images/Dipper_Pines_Bg.png');
     background-repeat: no-repeat;
-    background-size: 55vh;
+    background-size: 50vh;
     background-position: 40px bottom;
     display: none;
 }
 
 #lightbox2 {
     background-image: url('../images/Ford_Pines_Bg.png');
+    
+}
+
+#lightbox3 {
+    background-image: url('../images/Mabel_Pines_Bg.png');
+    background-size: 55vh;
+}
+
+#lightbox4 {
+    background-image: url('../images/Soos_Bg.png');
+    background-size: 55vh;
+}
+
+#lightbox5 {
+    background-image: url('../images/Wendy_Bg.png');
+    background-size: 50vh;
+}
+
+#lightbox6 {
+    background-image: url('../images/Stan_Bg.png');
+    background-size: 70vh;
 }
 
 .lightbox_close {
@@ -142,7 +163,7 @@ footer {
 
 .lightbox_close:hover {
     opacity: 0.5;
-    color: red;
+    color: green;
 }
 
 .lightbox article {
