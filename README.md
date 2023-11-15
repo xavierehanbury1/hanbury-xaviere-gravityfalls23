@@ -1,5 +1,5 @@
 # Marvel Comics Build For Fall 2023
-This repo is for an in-class build demonstrating basic CSS layouts, CSS sprites, and a light-box effect.
+This repo is for the HW 2 Css Spritesheet Assignment depicting assorted characters from Gravity Falls and some information about them. There is interactability in being able to open up lightboxes of these respective characters where you can see some additional information about them. This repo was made in mind for Fanshawe Professor viewing. 
 
 ## Installation
 
@@ -19,11 +19,11 @@ Open index.html in the browser of your choice.
 
 ## History
 
-TODO: Write history
+History: Added Lightboxes, character & page images, the logo and created folder structure. 
 
 ## Credits
 
-Marco De Luca
+Xaviere Hanbury
 
 ## License
 
