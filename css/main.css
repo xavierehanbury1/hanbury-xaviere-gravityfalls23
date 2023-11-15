@@ -83,7 +83,7 @@ article p, #instructions p {
 .sprite {
     width: 150px;
     height: 150px;
-    background-image: url('../images/marvelSprites.jpg');
+    background-image: url('../images/gravityfallSprites.jpg');
 }
 
 #carol {background-position: -150px 0;}
